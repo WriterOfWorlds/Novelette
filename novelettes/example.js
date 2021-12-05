@@ -1,0 +1,1 @@
+fillImage("stockimage.jpg", "basicTemplateImage");
